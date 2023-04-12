@@ -121,7 +121,8 @@ plt.show()
 ### i)Image Translation
 <br>
 <br>
-![ex 5 a](https://user-images.githubusercontent.com/94168395/231361247-e0b4cf96-b21d-4899-b647-5b7d52b75751.png)
+![ex 5 a](https://user-images.githubusercontent.com/94168395/231362173-df126947-1504-4b31-94aa-2b68258409df.png)
+
 <br>
 <br>
 
