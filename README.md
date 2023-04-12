@@ -9,24 +9,31 @@ Anaconda - Python 3.7
 ### Step1:
 <br>
 Import the required libraries and read the original image.
+
 ### Step2:
 <br>
 Translate the image.
+
 ### Step3:
 <br>
 Scale the image.
+
 ### Step4:
 <br>
 Shear the image.
+
 ### Step5:
 <br>
 Find reflection of image.
+
 ### Step6:
 <br>
 Rotate the image.
+
 ### Step7:
 <br>
 Crop the image.
+
 ### Step8:
 <br>
 Display all the Transformed images.
