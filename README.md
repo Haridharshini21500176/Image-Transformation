@@ -139,7 +139,6 @@ plt.show()
 ### i)Image Translation
 <br>
 <br>
-![image](https://user-images.githubusercontent.com/94168395/231362490-0473fbf6-5f12-43cb-a581-86e548876abf.png)
 
 ![ex 5 a](https://user-images.githubusercontent.com/94168395/231362173-df126947-1504-4b31-94aa-2b68258409df.png)
 
@@ -149,6 +148,7 @@ plt.show()
 ### ii) Image Scaling
 <br>
 <br>
+
 ![ex 5 b](https://user-images.githubusercontent.com/94168395/231361274-7f2ccd64-a0e1-4b92-b966-cfb8175c354e.png)
 <br>
 <br>
